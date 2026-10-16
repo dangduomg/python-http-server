@@ -19,6 +19,7 @@ files statically from a directory and its subdirectories (by default
     ```
 4. Open `localhost:8000` on the browser
 5. Done!
+
 # Usage
 ```
 usage: server.py [-h] [--base-path BASE_PATH] [--index-files [INDEX_FILES ...]] [--host HOST] [--port PORT]
